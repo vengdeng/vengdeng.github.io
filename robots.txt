@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vengdeng.github.io/vengdeng.github.io//sitemap.xml
+Sitemap: /vengdeng.github.io//sitemap.xml
