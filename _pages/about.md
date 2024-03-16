@@ -9,7 +9,7 @@ profile:
   image: personal_img.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Welcome to Collaboration and Internship</p>
+    <p>Open to Collaboration and Internship</p>
 
 social: true # includes social icons at the bottom of the page
 news: true # includes a list of news items
