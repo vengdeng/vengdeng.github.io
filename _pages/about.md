@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 
 
@@ -19,3 +19,5 @@ My name is Deng Wenlong (邓文龙), I am a Ph.D. student in the Electrical and 
 
 **Previously**: From 2020-2022, I worked at TikTok as a machine learning engineer. I firstly focus on enhancing the video search engine. Later on, I transitioned to refining the advertisement recommendation system.  I obtained my master’s degree in Electrical Engineering at [EPFL](https://www.epfl.ch/en/) in 2019, where I was fortunated been supervised by [Prof. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi/?lang=en) on stereo vision. I received my bachelor’s degree in Electronic and Information Engineering (Honors) at
 [UESTC](https://en.uestc.edu.cn/) in 2017. 
+
+
