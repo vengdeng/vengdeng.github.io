@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our latest work [LLM-Assisted Content Conditional Debiasing for Fair Text Embedding](https://arxiv.org/pdf/2402.14208) in on Arxiv.
+Our latest work [LLM-Assisted Content Conditional Debiasing for Fair Text Embedding](https://arxiv.org/pdf/2402.14208) is on Arxiv.
