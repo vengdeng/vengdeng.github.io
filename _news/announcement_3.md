@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-07-06 15:59:00-0400
+date: 2025-01-20 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our latest work [LLM-Assisted Content Conditional Debiasing for Fair Text Embedding](https://arxiv.org/pdf/2402.14208) is on Arxiv.
+Three papers accepted at ICLR 2025 (3 out of 3)! Grateful to my collaborators for their support.
