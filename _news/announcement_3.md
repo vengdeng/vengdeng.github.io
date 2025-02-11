@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Three papers accepted at ICLR 2025 (3 out of 3)! Grateful to my collaborators for their support.
+Three papers accepted at ICLR 2025 (3 out of 3)! Grateful to my collaborators for their support. 
