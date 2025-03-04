@@ -12,11 +12,11 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Conditional Invariant Learning.
+    - title: Efficient Learning.
       items:
-        - Fairness
-        - Domain invariant learning
-    - title: Data Heterogenity
+        - Parameter Efficient Learning
+        - Data Efficient learning
+    - title: Generalized Learning
       items:
-        - Domain Adaptation
-        - Multi-Task Learning
+        - Task Adaptation
+        - Unbiased learning
