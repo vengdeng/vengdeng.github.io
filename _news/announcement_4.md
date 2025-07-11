@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-02-07 15:59:00-0400
+date: 2025-07-10 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our  work [DARE the Extreme: Revisiting Delta-Parameter Pruning For Fine-Tuned Models](https://arxiv.org/pdf/2410.09344) is selected as **Spotlight** at ICLR, you can drop more than **99%** of your delta parameters without hurt finetuned model performance! Code will be released soon.
+Our  work **Token Hidden Reward: Steering Exploration-Exploitation in GRPO Training** has been selected as a **Best Paper** at the 2nd AI for Math Workshop @ ICML 2025. In this paper, we investigate how to guide the balance between exploitation and exploration in RL training using a free-launch token-level reward.
