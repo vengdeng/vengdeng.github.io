@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-07-10 15:59:00-0400
+date: 2026-01-26 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our  work **Token Hidden Reward: Steering Exploration-Exploitation in GRPO Training** has been selected as a **Best Paper** at the 2nd AI for Math Workshop @ ICML 2025. In this paper, we investigate how to guide the balance between exploitation and exploration in RL training using a free-launch token-level reward.
+Two papers were accepted to ICLR 2026: one on token hidden rewards in reinforcement learning, and the other on resolving gradient explosion and vanishing in text-based models. Many thanks to my collaborators!
