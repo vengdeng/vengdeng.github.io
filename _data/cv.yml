@@ -8,7 +8,6 @@
     - name: Languages
       value: Chiense, English, German (basic)
 
-
 - title: Academic Interests
   type: nested_list
   contents:

@@ -39,7 +39,7 @@ layout: default
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
-    
+
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
@@ -48,7 +48,6 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
-
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
@@ -56,7 +55,7 @@ layout: default
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
-       <!-- Social -->
+    <!-- Social -->
     {% if page.social %}
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>
@@ -65,8 +64,10 @@ layout: default
       </div>
     {% endif %}
 
-  <p align="center">
-  <a href="https://clustrmaps.com/site/1byvq" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=m&d=s_ybn_FbWtujEa3ooOnSB8YSe_bL6lcHM9Nn5g2LvXU&co=ffffff&ct=808080" /></a>
-  </p>
+    <p align="center">
+      <a href="https://clustrmaps.com/site/1byvq" title="Visit tracker"
+        ><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=m&d=s_ybn_FbWtujEa3ooOnSB8YSe_bL6lcHM9Nn5g2LvXU&co=ffffff&ct=808080"
+      ></a>
+    </p>
   </article>
 </div>
