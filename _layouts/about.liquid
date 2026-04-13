@@ -43,7 +43,7 @@ layout: default
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
@@ -51,10 +51,22 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
+
+    {% assign talks_content = page.talks | default: page.Talks %}
+    {% if talks_content %}
+      <h2>Talks</h2>
+      {{ talks_content | markdownify }}
+    {% endif %}
+
+    {% if page.service %}
+      <h2>Service</h2>
+      {{ page.service | markdownify }}
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
