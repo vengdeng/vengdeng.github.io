@@ -24,7 +24,7 @@ Talks: |
   
 ---
 
-My name is Deng Wenlong (邓文龙), I am a final year Ph.D. student in the Electrical and Computer Engineering department at the University of British Columbia, co-supervised by [Prof. Xiaoxiao Li](https://tea.ece.ubc.ca/) and [Prof. Christos Thrampoulidis](https://sites.google.com/view/cthrampo). I am broadly interested in machine learning, understanding models and their application in healthcare. I also have conducted research on trust-worthy machine learning (e.g. Bias and efficiency),  deep learning-based medical image analysis and now I am working on improving model reasoning abilities on medical diagnosis and Tool use.
+My name is Deng Wenlong (邓文龙), I recently defended my Ph.D. in the Electrical and Computer Engineering department at the University of British Columbia, co-supervised by [Prof. Xiaoxiao Li](https://tea.ece.ubc.ca/) and [Prof. Christos Thrampoulidis](https://sites.google.com/view/cthrampo). I am broadly interested in machine learning, understanding models and their application in healthcare. I also have conducted research on trust-worthy machine learning (e.g. Bias and efficiency),  deep learning-based medical image analysis and now I am working on improving model reasoning abilities on medical diagnosis and Tool use.
 
 **Previously**: I obtained my master’s degree in Electrical Engineering at [EPFL](https://www.epfl.ch/en/) in 2019, where I was fortunated been supervised by [Prof. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi/?lang=en) on stereo vision. I received my bachelor’s degree in Electronic and Information Engineering (Honors) at
 [UESTC](https://en.uestc.edu.cn/) in 2017.
